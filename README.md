@@ -1,5 +1,5 @@
-<h1>Hi there 👋, Sandesh Prabhu here....</H1>
-<h3 align="center">I'm still learning</h3>
+<h1 >Hi there 👋, Sandesh Prabhu here....</H1>
+<h3 >I'm still learning</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-prabhu&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-prabhu" /> </p> -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandesh-prabhu" alt="sandesh-prabhu" /></a> </p> -->
 <h3 align="left">Connect with me:</h3>
