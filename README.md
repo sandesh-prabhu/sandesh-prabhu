@@ -24,7 +24,7 @@
 <br>
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandesh-prabhu&show_icons=true&locale=en&theme=dark" alt="sandesh-prabhu" /></div>
 <br>
-<div><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sandesh-prabhu&theme=react&border=00000)]" alt="sandesh-prabhu" /></div>
+<div><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sandesh-prabhu&theme=react&border=000000)]" alt="sandesh-prabhu" /></div>
 
 <!-- <p align="center">
     <b>GitHub Visitors</b>
