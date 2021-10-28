@@ -1,5 +1,8 @@
-<h1 >Hi there 👋, Sandesh Prabhu here....</H1>
-<h3 >I'm a student</h3>
+
+<meta property="og:description" content="Sandesh Prabhu is a Back-End Developer from Udupi, India. Sandesh Prabhu is currenty pursuing his BE in Computer Science. Feel free to contact Sandesh Prabhu" />
+<meta name="Keywords" content="Sandesh Prabhu Udupi sandesh prabhu SANDESH PRABHU sandeshprabhu prabhu sandesh sandesh.com www.sandesh.com sandeshprabhu.com www.sandeshprabhu.com "/>
+<h1 >Hi there, Sandesh Prabhu here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></H1>
+<h3 >A final year undergrad student at <a href="https://sode-edu.in/">SMVITM</a>, majoring in Computer Science and Engineering.</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-prabhu&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-prabhu" /> </p>-->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandesh-prabhu" alt="sandesh-prabhu" /></a> </p> -->
 <h3 align="left">Connect with me:</h3>
